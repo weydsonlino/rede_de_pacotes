@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/pc.png</file>
+        <file>icons/switch.png</file>
+        <file>icons/router.png</file>
+    </qresource>
+</RCC>
